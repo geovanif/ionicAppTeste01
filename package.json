@@ -1,0 +1,28 @@
+{
+  "name": "apibugph",
+  "version": "1.0.0",
+  "description": "um teste maroto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geovnaif/ionicAppTeste01.git"
+  },
+  "keywords": [
+    "ionic"
+  ],
+  "author": "geovani ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geovnaif/ionicAppTeste01/issues"
+  },
+  "homepage": "https://github.com/geovnaif/ionicAppTeste01#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.7.1",
+    "express": "^4.14.0",
+    "moment": "^2.14.1"
+  }
+}
